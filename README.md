@@ -2,7 +2,7 @@
 
 *Thesis DSS*
 
-These 26 Rscripts contain the code I wrote for this thesis research.
+These 26 R scripts contain the code I wrote for this thesis research.
 The first file contains the preprocessing and exploratory data analysis of the investor evaluation survey data.
 It also shows the Multinomial logistic regression and Classification decision tree implementation.
 
